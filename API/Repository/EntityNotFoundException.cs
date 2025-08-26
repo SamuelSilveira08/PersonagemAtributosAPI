@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace Repository
 {
-    public class Class1
+    public class EntityNotFoundException : Exception
     {
+
+        public EntityNotFoundException(string message) : base(message) { }
     }
 }

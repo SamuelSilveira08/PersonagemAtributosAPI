@@ -43,7 +43,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AlinhamentoEnum.cs" />
-    <Compile Include="Class1.cs" />
+    <Compile Include="Atributos.cs" />
+    <Compile Include="IEntity.cs" />
     <Compile Include="Subclasse.cs" />
     <Compile Include="Habilidade.cs" />
     <Compile Include="Classe.cs" />
